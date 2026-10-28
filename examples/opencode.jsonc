@@ -1,0 +1,12 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "skills": ["D:/Tools/REA-Opencode"],
+  "mcp": {
+    "servers": {
+      "rea": {
+        "type": "local",
+        "command": ["node", "D:/Tools/rea/scripts/rea.mjs", "mcp"]
+      }
+    }
+  }
+}
